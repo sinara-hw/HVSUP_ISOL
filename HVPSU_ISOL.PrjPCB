@@ -180,6 +180,10 @@ Variation4=Designator=CON1|UniqueId=\XINCUUYP\FAHBSEOH|Kind=1|AlternatePart=
 Variation5=Designator=FL1|UniqueId=\XINCUUYP\CSTXATXL|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Zotino\Design Rule Check - HVSUP_ISOL.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
