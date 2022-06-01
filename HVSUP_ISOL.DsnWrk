@@ -3,6 +3,6 @@ Version=1.0
 [Project1]
 ProjectPath=HV_Module.PrjPCB
 [Project2]
-ProjectPath=Common_HVPSU_ISOL\Common_HVSUP_ISOL.PrjPCB
-[Project3]
 ProjectPath=HVPSU_ISOL.PrjPCB
+[Project3]
+ProjectPath=Common_HVPSU_ISOL\Common_HVSUP_ISOL.PrjPCB
