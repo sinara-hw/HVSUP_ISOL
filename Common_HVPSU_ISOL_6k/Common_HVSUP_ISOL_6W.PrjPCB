@@ -170,7 +170,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8]
-DocumentPath=..\HVSUP_ISOL_Mainboard\HVSUP_ISOL.schdoc
+DocumentPath=..\HVSUP_ISOL_Mainboard\HVSUP_ISOL_Mainboard.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -310,7 +310,7 @@ UniqueID=83F667C0-F781-4C6E-A5B5-D29346A688AA
 Description=DIOT_HVP_HVN
 AllowFabrication=0
 ParameterCount=0
-VariationCount=18
+VariationCount=19
 Variation1=Designator=R30A|UniqueId=\EXXECYDG\QUBSBNSQ\DCZVGOMA|Kind=1|AlternatePart= 
 Variation2=Designator=R89A|UniqueId=\EXXECYDG\QUBSBNSQ\HFEFFGZD|Kind=1|AlternatePart= 
 Variation3=Designator=R80B|UniqueId=\EXXECYDG\WQHDGXUH\QZLGCPCD|Kind=1|AlternatePart= 
@@ -383,6 +383,7 @@ Variation15=Designator=D13B|UniqueId=\EXXECYDG\WQHDGXUH\ZTYHULFL|Kind=1|Alternat
 Variation16=Designator=D14B|UniqueId=\EXXECYDG\WQHDGXUH\XUJNBSEQ|Kind=1|AlternatePart= 
 Variation17=Designator=D15B|UniqueId=\EXXECYDG\WQHDGXUH\TVUXWMWE|Kind=1|AlternatePart= 
 Variation18=Designator=D16B|UniqueId=\EXXECYDG\WQHDGXUH\TQJQMFMF|Kind=1|AlternatePart= 
+Variation19=Designator=IC36|UniqueId=\JANJBVZD\XINCUUYP\HVACSUKL|Kind=1|AlternatePart= 
 ParamVariationCount=27
 
 [GeneratedDocument1]
@@ -1134,36 +1135,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=Orcad v7 Capture Design
-OutputName15=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD ASCII
-OutputName16=P-CAD ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD V16 Schematic Design
-OutputName17=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=SiSoft
-OutputName18=SiSoft (AutoPCB)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs

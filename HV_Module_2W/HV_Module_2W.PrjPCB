@@ -51,6 +51,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=HV_Module_2W.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document2]
 DocumentPath=ADC_DAC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -67,7 +84,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VTGJNGLD
 
-[Document2]
+[Document3]
 DocumentPath=Isolators_HV.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -84,7 +101,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZGYFXIIS
 
-[Document3]
+[Document4]
 DocumentPath=HV_PWR_STAGE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -101,8 +118,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SKPDZCKL
 
-[Document4]
-DocumentPath=HV_Module.schdoc
+[Document5]
+DocumentPath=HV_Module_2W.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -118,7 +135,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QECFLUBM
 
-[Document5]
+[Document6]
 DocumentPath=HV_Module_2W.PCBDOC
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -135,7 +152,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AYIWLANB
 
-[Document6]
+[Document7]
 DocumentPath=Supply_5V_ISOL.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -152,7 +169,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YLYGUVIC
 
-[Document7]
+[Document8]
 DocumentPath=LED_indicators.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -216,7 +233,7 @@ UniqueID=C360C106-1BB6-4467-BEE4-054BEB6E5E89
 Description=HV_POS_NEG
 AllowFabrication=0
 ParameterCount=0
-VariationCount=6
+VariationCount=7
 Variation1=Designator=IC9B|UniqueId=\WQHDGXUH\BVLEGJUI|Kind=0|AlternatePart==Device
 ParamVariation1=ParameterName=Device|VariantValue=AG20N-5
 ParamDesignator1=IC9B
@@ -229,9 +246,30 @@ ParamDesignator4=IC9B
 Variation2=Designator=IC9A|UniqueId=\QUBSBNSQ\BVLEGJUI|Kind=0|AlternatePart= 
 Variation3=Designator=R30A|UniqueId=\QUBSBNSQ\DCZVGOMA|Kind=1|AlternatePart= 
 Variation4=Designator=R89A|UniqueId=\QUBSBNSQ\HFEFFGZD|Kind=1|AlternatePart= 
-Variation5=Designator=R30B|UniqueId=\WQHDGXUH\DCZVGOMA|Kind=1|AlternatePart= 
+Variation5=Designator=R30B|UniqueId=\WQHDGXUH\DCZVGOMA|Kind=0|AlternatePart= 
 Variation6=Designator=R63B|UniqueId=\WQHDGXUH\BIMWMGDX|Kind=1|AlternatePart= 
+Variation7=Designator=R80B|UniqueId=\WQHDGXUH\QZLGCPCD|Kind=1|AlternatePart= 
 ParamVariationCount=4
+
+[GeneratedDocument1]
+DocumentPath=C:\Users\gkasp\AppData\Local\Temp\Qjz1BDD.xls
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=C:\Users\gkasp\AppData\Local\Temp\Qjz5F21.xls
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=C:\Users\gkasp\AppData\Local\Temp\Qjz49.xls
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=C:\Users\gkasp\AppData\Local\Temp\Qjz3214.xls
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=C:\Users\gkasp\AppData\Local\Temp\Qjz9741.xls
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration

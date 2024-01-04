@@ -119,7 +119,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VTGJNGLD
 
 [Document5]
-DocumentPath=..\HV_Module_2W\HV_Module.schdoc
+DocumentPath=..\HV_Module_2W\HV_Module_2W.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -272,7 +272,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document14]
-DocumentPath=..\HVSUP_ISOL_Mainboard\HVSUP_ISOL.schdoc
+DocumentPath=..\HVSUP_ISOL_Mainboard\HVSUP_ISOL_Mainboard.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

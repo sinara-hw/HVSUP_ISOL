@@ -44,7 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=HV_POS_NEG
+CurrentVariant=HV_NEG
 
 [Preferences]
 PrefsVaultGUID=
@@ -186,12 +186,29 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AYIWLANB
 
+[Document9]
+DocumentPath=HV_Module_6W.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=602364E7-4397-435B-BC3F-A8871B908C4B
 Description=HV_POS
 AllowFabrication=0
 ParameterCount=0
-VariationCount=22
+VariationCount=23
 Variation1=Designator=R50A|UniqueId=\QUBSBNSQ\ACIALYKS|Kind=1|AlternatePart= 
 Variation2=Designator=R63A|UniqueId=\QUBSBNSQ\UVFLLUIW|Kind=1|AlternatePart= 
 Variation3=Designator=D1A|UniqueId=\QUBSBNSQ\MUAUOMHK|Kind=1|AlternatePart= 
@@ -214,6 +231,7 @@ Variation19=Designator=D30B|UniqueId=\WQHDGXUH\DQWSTVTC|Kind=1|AlternatePart=
 Variation20=Designator=R74B|UniqueId=\WQHDGXUH\VAGEPKNJ|Kind=0|AlternatePart= 
 Variation21=Designator=R89B|UniqueId=\WQHDGXUH\WTMDMJFZ|Kind=1|AlternatePart= 
 Variation22=Designator=R63B|UniqueId=\WQHDGXUH\UVFLLUIW|Kind=1|AlternatePart= 
+Variation23=Designator=C132B|UniqueId=\WQHDGXUH\DATTXDGF|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -221,7 +239,7 @@ UniqueID=016E3D29-AAD6-487D-9CB4-24DC52A65C79
 Description=HV_NEG
 AllowFabrication=0
 ParameterCount=0
-VariationCount=21
+VariationCount=23
 Variation1=Designator=R47A|UniqueId=\QUBSBNSQ\PWNKQZKD|Kind=0|AlternatePart= 
 Variation2=Designator=D13B|UniqueId=\WQHDGXUH\PBKYGDGG|Kind=1|AlternatePart= 
 Variation3=Designator=D12B|UniqueId=\WQHDGXUH\UNGZPCDP|Kind=1|AlternatePart= 
@@ -243,6 +261,8 @@ Variation18=Designator=D21A|UniqueId=\QUBSBNSQ\ZTYHULFL|Kind=1|AlternatePart=
 Variation19=Designator=D22A|UniqueId=\QUBSBNSQ\XUJNBSEQ|Kind=1|AlternatePart= 
 Variation20=Designator=D23A|UniqueId=\QUBSBNSQ\TVUXWMWE|Kind=1|AlternatePart= 
 Variation21=Designator=D24A|UniqueId=\QUBSBNSQ\TQJQMFMF|Kind=1|AlternatePart= 
+Variation22=Designator=C132B|UniqueId=\WQHDGXUH\DATTXDGF|Kind=1|AlternatePart= 
+Variation23=Designator=C132A|UniqueId=\QUBSBNSQ\DATTXDGF|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant3]
@@ -274,6 +294,10 @@ Variation20=Designator=R119B|UniqueId=\WQHDGXUH\JFEYQJLN|Kind=1|AlternatePart=
 Variation21=Designator=C82A|UniqueId=\QUBSBNSQ\DATTXDGF|Kind=1|AlternatePart= 
 Variation22=Designator=C82B|UniqueId=\WQHDGXUH\DATTXDGF|Kind=1|AlternatePart= 
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=C:\Users\gkasp\AppData\Local\Temp\QjzD247.xls
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
